@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
