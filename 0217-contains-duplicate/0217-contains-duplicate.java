@@ -1,26 +1,20 @@
-import java.util.HashMap;
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashMap<Integer,Integer> ob=new HashMap<>();
-        for(int i=0;i<nums.length;i++)
+        HashSet<Integer> set=new HashSet<>();
+       int n=nums.length;
+        for(int i=0;i<n;i++){
+            set.add(nums[i]);
+        }
+
+        if(set.size()<n)
         {
-            int n=nums[i];
-            if(ob.containsKey(n))
-            {
-                int prev=ob.get(n);
-                ob.put(n,prev+1);
-
-            }
-            else{
-                ob.put(n,1);
-            }
+            return true;
         }
 
-        for(int k:ob.keySet()){
-            if(ob.get(k)>1){
-                return true;
-            }
+        else{
+            return false;
         }
-    return false;
+        
+        
     }
 }
