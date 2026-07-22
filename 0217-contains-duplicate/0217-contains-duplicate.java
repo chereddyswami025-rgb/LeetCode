@@ -3,17 +3,16 @@ class Solution {
         HashSet<Integer> set=new HashSet<>();
        int n=nums.length;
         for(int i=0;i<n;i++){
-            set.add(nums[i]);
-        }
-
-        if(set.size()<n)
+           boolean res= set.add(nums[i]);
+        
+        if(res==false)
         {
             return true;
         }
 
-        else{
-            return false;
+    
         }
+    return false;
         
         
     }
