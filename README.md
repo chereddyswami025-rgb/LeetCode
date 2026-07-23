@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
