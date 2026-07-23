@@ -17,7 +17,9 @@ class Solution {
             if(map.size()==k){
                 max=Math.max(sum,max);
                 sum-=nums[left];           
-                map.put(nums[left],0);
+                // map.put(nums[left],0);
+                int pre_val=map.get(nums[left]);
+                    map.put(nums[left],pre_val-1);
                 if(map.get(nums[left])==0){
                     map.remove(nums[left]);
                 }
