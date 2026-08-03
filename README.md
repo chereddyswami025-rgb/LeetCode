@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0344-reverse-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
