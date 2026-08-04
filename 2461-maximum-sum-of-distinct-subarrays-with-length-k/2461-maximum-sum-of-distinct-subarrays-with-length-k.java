@@ -1,44 +1,47 @@
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        int left=0,right=0;
+        int left=0,right=0,n=nums.length;
         long max=0,sum=0;
-         while(right<nums.length){
+        HashMap<Integer,Integer> map=new HashMap<>();
+        while(right<n){
             sum+=nums[right];
-            if(map.containsKey(nums[right]))
-            {
-                int exval=map.get(nums[right]);
-                map.put(nums[right],exval+1);
+            if(map.containsKey(nums[right])){
+                int ex=map.get(nums[right]);
+                map.put(nums[right],ex+1);
+
             }
             else{
-                map.put(nums[right],1);
+                 map.put(nums[right],1);
             }
-        if(right-left+1==k){
-            if(map.size()==k){
-                max=Math.max(sum,max);
-                sum-=nums[left];           
-                // map.put(nums[left],0);
-                int pre_val=map.get(nums[left]);
-                    map.put(nums[left],pre_val-1);
+           
+            if(right-left+1==k){
+                if(map.size()!=k){
+                    sum-=nums[left];
+                     int le=map.get(nums[left]);
+                    map.put(nums[left],le-1);
                 if(map.get(nums[left])==0){
                     map.remove(nums[left]);
                 }
-            }
-            else{
-                  sum-=nums[left];
-                  int pre_val=map.get(nums[left]);
-                    map.put(nums[left],pre_val-1);
-                   if(map.get(nums[left])==0){
+                    left++;
+                }
+                 if(map.size()==k){
+                max= Math.max(sum,max);
+                sum-=nums[left];
+                int l=map.get(nums[left]);
+                map.put(nums[left],l-1);
+                if(map.get(nums[left])==0){
                     map.remove(nums[left]);
                 }
-            }
                 left++;
-            
+
+
+            }
+           
+              
+            }
+            right++;
         }
-        right++;
-         }
-        
-       return max;  
-    }
+        return max;
         
     }
+}
