@@ -22,11 +22,7 @@ class Solution {
                 j--;
                 k--;
             }
-           else if(i>=0&&j<0){
-                nums1[k]=nums1[i];
-                i--;
-                k--;
-            }
+         
             else{
                 break;
             }
