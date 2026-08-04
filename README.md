@@ -130,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
