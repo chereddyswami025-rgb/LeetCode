@@ -3,8 +3,8 @@ class Solution {
         int n=num.length();
         int eve=0,od=0;
         for(int i=0;i<n;i++){
-            char ch=num.charAt(i);
-            int digit=ch-'0';
+            
+            int digit=num.charAt(i)-'0';
             if(i%2==0){
                 eve+=digit;
             }
