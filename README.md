@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1796-second-largest-digit-in-a-string](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0344-reverse-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3340-check-balanced-string](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/3340-check-balanced-string) |
 ## Stack
