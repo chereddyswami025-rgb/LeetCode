@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/2235-add-two-integers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Number Theory
 |  |
