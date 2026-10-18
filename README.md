@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0704-binary-search) |
 ## String
 |  |
