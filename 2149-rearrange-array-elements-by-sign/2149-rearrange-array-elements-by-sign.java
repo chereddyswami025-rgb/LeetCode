@@ -1,8 +1,8 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        int n=nums.length,j=1,k=0,i=0;
+        int n=nums.length,j=1,k=0;
         int[] res=new int[n];
-        while(i<n){
+    for(int i=0;i<n;i++){
          if(nums[i]>0){
                 res[k]=nums[i];
                 k+=2;
@@ -11,7 +11,7 @@ class Solution {
                 res[j]=nums[i];
                 j+=2;
             }
-            i++;
+            
         }
         return res;
         
