@@ -11,9 +11,6 @@ class Solution {
             }
             if(cnt==0){
                 major=nums[i+1];
-                if(i==n-1){
-                    break;
-                }
             }
         }
         return major;
