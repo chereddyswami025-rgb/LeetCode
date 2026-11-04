@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Floyd's Cycle Finding Algorithm
 |  |
