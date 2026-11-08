@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0217-contains-duplicate) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
