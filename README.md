@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0342-power-of-four) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/chereddyswami025-rgb/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Floyd's Cycle Finding Algorithm
